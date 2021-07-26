@@ -1,0 +1,8 @@
+
+#DraggableDiv{
+    position:absolute;
+    height: 300px;
+    width: 300px;
+    border: 4px solid black;
+    
+}
